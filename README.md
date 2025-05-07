@@ -1,12 +1,13 @@
 #Plant Disease Diagnosis Concept
+
 Plant Disease Diagnosis is an AI-driven web application designed to help farmers, gardeners, and plant enthusiasts quickly identify and manage plant diseases. By leveraging decision-tree logic and a structured, symptom-based approach, the application guides users through the diagnosis process, offering clear treatment suggestions and preventive measures based on selected symptoms.
 
 Features
 - Symptom-based Diagnosis: Users select plant type and tick visible symptoms for a streamlined analysis.
   
 - Decision Tree Logic: System intelligently narrows down potential diseases as symptoms are added.
-  
--Treatment Suggestions: Provides actionable recommendations for disease management and prevention.
+
+- Treatment Suggestions: Provides actionable recommendations for disease management and prevention.
 
 - Modular Design: Clean code structure for easy maintenance and scalability.
   
