@@ -1,4 +1,4 @@
-Plant Disease Diagnosis Concept
+#Plant Disease Diagnosis Concept
 Plant Disease Diagnosis is an AI-driven web application designed to help farmers, gardeners, and plant enthusiasts quickly identify and manage plant diseases. By leveraging decision-tree logic and a structured, symptom-based approach, the application guides users through the diagnosis process, offering clear treatment suggestions and preventive measures based on selected symptoms.
 
 Features
